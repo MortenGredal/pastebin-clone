@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pastebin-clone-2", "pastebin-clone-2\pastebin-clone-2.csproj", "{AF435F9F-62F5-4B98-B0E9-5AA24DDC382E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pastebin-clone", "pastebin-clone\pastebin-clone.csproj", "{AF435F9F-62F5-4B98-B0E9-5AA24DDC382E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

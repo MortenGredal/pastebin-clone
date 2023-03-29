@@ -1,4 +1,5 @@
 using pastebin_clone_2.models;
+using pastebin_clone_2.services;
 using pastebin_clone_2.Services;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -16,6 +17,7 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddSingleton<PasteService>();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+builder.Services.AddScoped<IShortenerService, ShortenerService>();
 
 var app = builder.Build();
 
