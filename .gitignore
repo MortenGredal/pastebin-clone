@@ -6,6 +6,10 @@
 **/.idea/shelf/*
 **/.idea/dictionaries
 **/.idea/httpRequests/
+**/.idea/encodings.xml
+**/.idea/indexLayout.xml
+**/.idea/projectSettingsUpdater.xml
+**/.idea/vcs.xml
 
 # Sensitive or high-churn files
 **/.idea/**/dataSources/
